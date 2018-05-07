@@ -1,0 +1,15 @@
+/dist
+/output
+/public
+npm-debug.log
+.idea
+.DS_Store
+/node_modules
+.tern-port
+.vscode
+*.min.js
+*.min_*.js
+/node_modules
+/.eslintignore
+/.imlintrc
+*.bak

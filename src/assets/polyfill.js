@@ -1,0 +1,3 @@
+//polyfill
+require('core-js');
+
